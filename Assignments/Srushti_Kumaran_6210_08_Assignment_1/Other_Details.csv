@@ -1,0 +1,401 @@
+name,popularity,genre_ids
+Insatiable,687.867,"[35, 18]"
+Thieves of the Wood,500.951,"[18, 9648, 10759]"
+Star Trek: Picard,251.933,[10765]
+Rick and Morty,173.919,"[16, 35, 10765]"
+Supernatural,123.996,"[18, 9648, 10765]"
+Arrow,159.109,"[80, 18, 9648, 10759]"
+The Simpsons,162.206,"[16, 35]"
+Law & Order: Special Victims Unit,153.953,"[80, 18]"
+Volle Kanne,12.274,[10763]
+Vikings,148.993,"[18, 10759]"
+Doctor Who,119.584,"[18, 10759, 10765]"
+Dog & Scissors,140.316,"[16, 35]"
+Ragnarok,110.117,"[18, 10759]"
+Late Show with David Letterman,34.193,"[35, 10767]"
+Family Guy,90.062,"[16, 35]"
+The Flash,136.056,"[18, 10765]"
+Grey's Anatomy,99.398,[18]
+The Walking Dead,93.181,"[18, 10759, 10765]"
+Sex Education,95.102,"[35, 18]"
+The Blacklist,114.09,"[80, 18, 9648]"
+The Mandalorian,96.115,"[10759, 10765]"
+Final Approach,104.778,"[16, 35]"
+The Stranger,86.707,"[18, 9648]"
+Riverdale,86.351,"[18, 9648]"
+Chilling Adventures of Sabrina,68.686,"[18, 9648, 10765]"
+Two and a Half Men,63.861,[35]
+The 100,83.945,"[18, 10759, 10765]"
+Criminal Minds,70.506,"[80, 18, 9648]"
+Friends,80.938,"[35, 18]"
+Dragon Ball,85.816,"[35, 10765, 16, 10759]"
+Naruto Shippūden,68.378,"[16, 35, 18]"
+South Park,79.976,"[16, 35]"
+Legacies,75.284,"[18, 10765]"
+Game of Thrones,77.521,"[18, 10765]"
+NCIS,74.291,"[80, 18, 10759]"
+Lucifer,72.672,"[80, 10765]"
+Doraemon,25.84,"[10759, 16, 35, 10765]"
+House,53.625,"[35, 18, 9648]"
+Hawaii Five-0,70.472,"[28, 80, 18]"
+Brooklyn Nine-Nine,68.722,"[35, 80]"
+Marvel's Agents of S.H.I.E.L.D.,68.592,"[18, 10759, 10765]"
+His Dark Materials,68.286,"[18, 10765]"
+Law & Order,60.544,[18]
+Star Wars: The Clone Wars,73.307,"[16, 10759, 10765]"
+Dahoam is Dahoam,5.601,[10751]
+NCIS: Los Angeles,70.622,"[80, 18, 9648, 10759]"
+Hunter x Hunter,62.598,"[16, 35, 18, 10759]"
+Chicago Fire,70.868,[18]
+Scene of the Crime,35.99,"[80, 18]"
+Breaking Bad,78.691,[18]
+Bones,62.318,"[80, 18]"
+The Outsider,61.296,"[80, 18, 9648]"
+American Dad!,63.785,"[16, 35]"
+Dragon Ball Z,68.287,"[16, 35, 10759, 10765]"
+Prison Break,60.537,"[80, 18, 10759]"
+The Good Doctor,59.837,[18]
+Supergirl,63.946,"[28, 12, 18, 878]"
+Perry Mason,25.522,"[80, 18, 9648]"
+Doctor Who,45.423,"[18, 10759, 10765]"
+CSI: Crime Scene Investigation,58.671,"[80, 18, 9648]"
+Castle,48.361,"[80, 18]"
+Homeland,45.442,"[80, 18, 10759, 10768]"
+Westworld,42.623,"[878, 37]"
+The Witcher,73.832,"[18, 10765]"
+Luna Nera,56.477,[10765]
+Pokémon,56.212,"[16, 10759, 10765]"
+Smallville,47.399,"[18, 9648, 10759, 10765]"
+24,33.274,"[18, 10759]"
+BoJack Horseman,44.532,"[16, 35, 18]"
+Late Night with David Letterman,10.898,"[35, 10767]"
+The Mentalist,48.626,"[80, 18]"
+The Graham Norton Show,33.939,"[35, 10767]"
+DC's Legends of Tomorrow,57.642,"[18, 10759, 10765]"
+The Magicians,44.194,"[18, 14, 27]"
+Pretty Little Liars,45.085,"[18, 9648]"
+The Tonight Show Starring Johnny Carson,14.677,[10767]
+The Virginian,26.753,"[18, 37]"
+Gotham,54.083,"[80, 18, 14]"
+How I Met Your Mother,48.78,[35]
+WWE Raw,26.771,[18]
+Modern Family,57.375,[35]
+Wogan,12.809,[10767]
+Scrubs,35.993,[35]
+TV-am,33.463,[]
+Once Upon a Time,37.75,"[18, 10765]"
+Avenue 5,50.245,"[35, 10765]"
+Lost,58.852,"[18, 9648, 10759, 10765]"
+Stranger Things,53.394,"[18, 9648, 10765]"
+Chicago P.D.,48.748,"[80, 18]"
+Star Trek: The Next Generation,40.078,"[18, 9648, 10759, 10765]"
+Power,49.446,"[80, 18]"
+American Horror Story,53.535,"[18, 9648, 10765]"
+The Originals,36.144,"[18, 9648, 10765]"
+Outlander,36.731,"[12, 18, 14, 10749]"
+The Vampire Diaries,59.996,"[18, 14, 27, 10749]"
+Secret Lives,41.056,"[10766, 18]"
+Adventure Time,39.782,"[16, 35, 14]"
+The Daily Show with Trevor Noah,48.544,"[35, 10763]"
+The Harald Schmidt Show,8.397,[10764]
+Manhunt,48.427,"[80, 18, 9648]"
+AJ and the Queen,53.181,[35]
+Survivor,40.383,[10764]
+The Good Place,48.073,"[35, 10765]"
+Live with Regis and Kathie Lee,9.479,[]
+It's Always Sunny in Philadelphia,37.475,[35]
+Batwoman,47.506,"[80, 9648, 10759, 10765]"
+Seinfeld,44.457,[35]
+Kamen Rider,46.529,"[18, 10759, 10765]"
+Black Mirror,36.222,"[18, 10765]"
+Naruto,36.579,"[16, 35, 18, 10759]"
+Midsomer Murders,36.256,"[80, 18, 9648]"
+Dexter,33.629,"[80, 18, 9648]"
+2 Broke Girls,34.501,[35]
+Stargate SG-1,45.002,"[10759, 10765]"
+Blue Bloods,45.45,"[80, 18]"
+Monk,36.949,"[18, 9648, 80, 35]"
+CSI: Miami,42.496,"[18, 9648]"
+Der Alte,18.44,[80]
+Interns,38.809,"[35, 10751]"
+Haikyuu!!: Riku vs Kuu,65.311,[]
+Battlestar Galactica,26.652,[18]
+Frasier,36.13,[35]
+Peaky Blinders,39.784,"[80, 18]"
+Saturday Night Live,31.512,"[35, 10763]"
+TharnType: The Series,38.264,[]
+Alarm for Cobra 11: The Motorway Police,32.557,"[35, 18, 10759]"
+Shameless,56.476,"[35, 18]"
+Fear the Walking Dead,42.949,"[18, 10759]"
+Desperate Housewives,32.553,"[35, 18, 9648]"
+The Expanse,42.656,"[18, 9648, 10765]"
+Suits,45.992,[18]
+Sons of Anarchy,29.44,"[80, 18]"
+Twin Peaks,32.332,"[18, 9648]"
+The Big Bang Theory,44.569,[35]
+One-Punch Man,41.903,"[10759, 16, 35]"
+Keeping Up with the Kardashians,39.155,[10764]
+The Sopranos,31.353,[18]
+Star Trek: Discovery,42.253,"[10759, 10765]"
+Polizeiruf 110,22.623,[80]
+Plunderer,41.362,"[16, 10759, 10765]"
+Sesame Street,49.036,"[16, 35, 10751]"
+New Girl,50.5,[35]
+Elementary,59.919,"[80, 18, 9648]"
+Paw Patrol,40.977,"[16, 10751, 10762]"
+Mayday,36.826,"[99, 18]"
+Conan,12.557,"[35, 10767]"
+Star Trek: Deep Space Nine,30.278,"[10759, 18, 10765]"
+Californication,27.52,"[35, 18]"
+Sherlock,29.694,"[80, 18, 9648]"
+Star Trek,41.697,"[18, 10765]"
+"Beverly Hills, 90210",35.15,[18]
+Murdoch Mysteries,36.494,"[18, 9648]"
+High School DxD,41.029,"[16, 35, 10759, 10765]"
+Young Sheldon,52.045,[35]
+Chernobyl,36.178,[18]
+Mr. Robot,40.239,"[80, 18]"
+The Boys,49.73,"[10759, 10765]"
+Full House,44.789,"[35, 10751]"
+Tokyo Ghoul,44.301,"[16, 18, 9648, 10759]"
+The Office,48.132,[35]
+Teen Wolf,41.904,"[18, 10765]"
+True Detective,25.248,[18]
+Station 19,30.458,[18]
+Person of Interest,29.471,"[18, 10759, 80, 10765]"
+Messiah,25.377,[18]
+Baywatch,38.323,"[18, 10759]"
+Parks and Recreation,31.452,[35]
+Orange Is the New Black,30.084,"[35, 18]"
+Ray Donovan,42.742,[18]
+Case Closed,28.128,"[16, 35, 9648]"
+Young Hearts,7.442,[10766]
+Titans,49.613,"[18, 10759, 10765]"
+Peppa Pig,25.476,"[16, 10762]"
+Buffy the Vampire Slayer,28.904,"[35, 18, 10765]"
+Chicago Med,35.415,[18]
+Scorpion,33.149,"[10759, 18]"
+Marvel's Jessica Jones,31.819,"[10765, 18]"
+Psych,34.172,"[35, 18, 9648]"
+Glee,25.396,"[35, 18]"
+The Wire,27.871,"[80, 18]"
+MacGyver,41.152,"[18, 10759]"
+Designated Survivor,35.182,"[18, 10768]"
+Charmed,39.795,"[35, 18, 9648]"
+Money Heist,42.481,"[80, 18]"
+True Blood,29.473,"[18, 10765, 10766]"
+My Wife and Kids,41.437,"[35, 10751]"
+That '70s Show,29.949,"[35, 10751]"
+S.W.A.T.,37.108,"[80, 18, 10759]"
+The X-Files,38.862,"[10765, 9648, 18]"
+Gravity Falls,31.795,"[16, 35, 9648, 10765]"
+Better Call Saul,36.654,"[35, 80, 18]"
+Death in Paradise,31.027,"[35, 80, 18, 9648]"
+Community,27.218,[35]
+Top Gear,36.544,[99]
+SOKO Köln,13.473,[80]
+Erkenci Kuş,38.792,"[18, 35]"
+Narcos,24.024,"[80, 18]"
+Doraemon,5.977,"[16, 35, 10759, 10765]"
+Medici: Masters of Florence,30.08,"[18, 10768]"
+Grimm,35.911,"[18, 14, 9648]"
+This Is Us,29.558,"[35, 18]"
+True Cooking Master Boy,29.189,[16]
+The West Wing,41.923,[18]
+White Collar,25.977,"[80, 18]"
+Bleach,37.579,"[16, 10759, 10765]"
+YOU,31.359,"[80, 18]"
+Will & Grace,27.248,[35]
+The Fairly OddParents,33.122,"[16, 35, 10762, 10765]"
+SEAL Team,39.191,"[18, 10759, 10768]"
+A Case For Two,13.505,"[80, 18]"
+Futurama,36.312,"[16, 35]"
+One Piece,40.814,"[10759, 35, 16]"
+Weeds,22.091,"[35, 80, 18]"
+Ancient Aliens,27.481,"[99, 9648]"
+Silicon Valley,33.163,[35]
+Who Wants to Be a Millionaire? (US),7.223,[10767]
+Fringe,30.547,"[18, 9648, 10765]"
+Miraculous: Tales of Ladybug & Cat Noir,32.262,"[16, 10751, 10759, 10762]"
+Infinite Challenge,18.052,"[10764, 35]"
+La rosa de Guadalupe,16.182,"[18, 10766]"
+Death Note,34.899,"[16, 9648]"
+COBRA,39.668,[18]
+Mickey Mouse Clubhouse,27.043,"[10762, 10751, 16]"
+Arrested Development,20.502,[35]
+When Calls the Heart,33.853,[18]
+Star Trek: Voyager,33.766,"[18, 10759, 10765]"
+JoJo's Bizarre Adventure,42.391,"[28, 12, 16, 14, 27]"
+NCIS: New Orleans,36.291,"[18, 10759]"
+Little House on the Prairie,26.867,"[18, 37]"
+Fullmetal Alchemist: Brotherhood,29.24,"[16, 18, 9648, 10759]"
+30 Rock,25.996,[35]
+JAG,29.443,"[9648, 18]"
+The Resident,38.319,[18]
+How to Get Away with Murder,40.945,"[80, 18, 9648]"
+GMTV,8.51,[10763]
+Overlord,34.473,"[12, 16, 14]"
+Van Helsing,31.906,"[9648, 10759, 10765]"
+Downton Abbey,20.554,[18]
+13 Reasons Why,33.805,"[18, 9648]"
+Mom,34.781,"[35, 18]"
+Manifest,32.658,"[18, 9648]"
+InuYasha,29.199,"[16, 35, 18, 10759, 10765]"
+Cops,29.74,[10764]
+Everybody Loves Raymond,21.899,[35]
+In aller Freundschaft,13.09,[10766]
+Columbo,30.093,"[80, 18]"
+WWE NXT,12.285,"[18, 10759]"
+Curb Your Enthusiasm,36.487,[35]
+Heartland,25.44,[18]
+Cheers,22.313,[35]
+Chuck,20.816,"[35, 18, 10759]"
+Big Brother,15.656,[10764]
+DreamWorks Dragons,28.43,"[16, 35, 10759, 10765]"
+Doom Patrol,30.987,"[10759, 10765]"
+The Last Kingdom,29.666,"[18, 10759]"
+Ballers,22.635,"[35, 18]"
+Star Wars Rebels,35.529,"[16, 10759]"
+Black Lightning,35.101,"[18, 10759, 10765]"
+My Hero Academia,37.072,"[16, 35, 10759]"
+Altered Carbon,24.548,[10765]
+iZombie,30.238,"[80, 18, 27, 10765]"
+Monogatari,29.862,"[16, 35, 18, 14]"
+Jane the Virgin,40.553,"[35, 18]"
+See,34.589,"[18, 10759, 10765]"
+iCarly,25.93,"[35, 10751]"
+The Good Wife,40.693,[18]
+Omniscient,31.059,"[18, 10765]"
+Archer,24.011,"[16, 35, 18, 10759]"
+SOKO Leipzig,20.588,"[80, 18]"
+Justin Bieber: Seasons,16.872,[99]
+Heroes,22.521,"[18, 10765]"
+Malcolm in the Middle,22.168,[35]
+Law & Order: Criminal Intent,23.437,[18]
+Black Clover,27.979,"[16, 35, 10759]"
+The Orville,28.802,"[35, 18, 10765]"
+The Smurfs,35.37,"[16, 10751, 10762, 10765]"
+Sex and the City,20.52,[35]
+The Fugitive,11.519,"[18, 9648, 10759]"
+9-1-1,39.001,"[80, 18, 10759]"
+Six Feet Under,22.602,[18]
+DuckTales,23.907,"[16, 9648, 10751, 10765]"
+Spartacus,25.934,[18]
+The Man in the High Castle,33.103,"[18, 10765]"
+The A-Team,23.285,[10759]
+FBI,21.707,"[80, 18]"
+Adaalat,8.908,[18]
+Pawn Stars,12.953,"[35, 10764]"
+Re:ZERO -Starting Life in Another World-,33.497,"[16, 35, 18, 10765]"
+Babylon Berlin,29.364,[18]
+The Nanny,23.287,[35]
+Die Rosenheim-Cops,11.562,[80]
+Ozark,21.517,"[80, 18]"
+Stargate Atlantis,31.784,"[18, 10759, 10765]"
+Garfield and Friends,12.639,"[16, 35]"
+Shadowhunters,37.098,"[18, 10759, 10765]"
+Steven Universe,23.703,"[16, 35, 10751, 10759, 10765]"
+Gossip Girl,29.555,[35]
+Big Brother,19.997,[10764]
+Fire in His Fingertips,25.972,"[16, 35]"
+Orphan Black,21.111,"[18, 10765]"
+Diablero,29.259,"[9648, 10765]"
+Harley Quinn,35.896,"[16, 35, 80]"
+Henry Danger,31.078,"[35, 10751]"
+Last Man Standing,32.721,[35]
+Batman: The Animated Series,31.824,"[16, 18, 9648, 10759]"
+Swamp Thing,27.368,"[9648, 10765, 18]"
+Blindspot,37.998,"[28, 80, 18]"
+Treadstone,28.078,[10759]
+Rugrats,25.642,"[16, 10751]"
+Itaewon Class,28.465,[18]
+Fargo,21.165,"[80, 18]"
+Late Night with Conan O'Brien,9.051,"[35, 10767]"
+The Young and the Restless,6.302,[10766]
+Marvel's Daredevil,29.05,"[28, 80]"
+Superstore,26.17,[35]
+Dracula,21.544,"[18, 10765]"
+Real Time with Bill Maher,22.615,"[35, 10767]"
+Die Fallers – Eine Schwarzwaldfamilie,2.045,[10751]
+Lethal Weapon,31.263,"[80, 18, 10759]"
+The Saint,16.78,"[35, 10759]"
+Australian Survivor,27.91,[10764]
+Angel,24.202,[18]
+Rebelde,16.345,"[35, 10766, 18]"
+Last Week Tonight with John Oliver,23.516,"[10767, 35]"
+Desmontando la Historia,36.161,[]
+Singardaan,18.219,[18]
+Regular Show,20.775,"[12, 16, 35]"
+Gintama,21.666,"[16, 35, 10759, 10765]"
+Bull,26.689,"[80, 18]"
+The Batman,26.482,"[16, 9648, 10759, 10765]"
+Mad Men,24.714,[18]
+NOVA,26.052,[99]
+Sword Art Online,30.186,"[18, 10759, 10765]"
+Empire,23.198,"[18, 10402]"
+"Sabrina, the Teenage Witch",21.211,"[35, 10751, 10765]"
+The Legend of Korra,34.266,"[16, 18, 10751, 10759, 10765]"
+House of Cards,28.156,[18]
+Nintama Rantarō,15.77,"[35, 10759]"
+Lost in Space,25.985,"[18, 10759, 10765]"
+Mindhunter,26.77,"[80, 18]"
+Sefirin Kızı,21.716,[18]
+"BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",30.054,"[16, 35, 10759, 10765]"
+The Handmaid's Tale,38.067,"[18, 10765]"
+Großstadtrevier,10.452,"[18, 80]"
+Resurrection: Ertugrul,33.034,"[18, 10759, 10768]"
+Xena: Warrior Princess,28.118,"[18, 10759]"
+Bates Motel,18.334,"[80, 18, 9648]"
+Married... with Children,26.397,[35]
+Bob's Burgers,31.847,"[16, 35]"
+The Voice,15.41,[10764]
+Numb3rs,20.265,"[80, 18, 9648]"
+Moomin,22.936,"[16, 35, 10751, 10762]"
+King of the Hill,24.174,"[16, 35, 18]"
+Hawaii Five-O,16.939,"[18, 10759]"
+Unauthorized Living,26.559,"[80, 18]"
+Billions,24.683,[18]
+Digimon Adventure,18.512,[16]
+The Umbrella Academy,23.383,"[10759, 10765]"
+The End of the F***ing World,25.483,"[35, 80, 18]"
+Strike Back,23.022,"[28, 12, 18]"
+Fresh Off the Boat,21.315,[35]
+The Worst Witch,26.211,"[9648, 10751, 10762, 10765]"
+The Beverly Hillbillies,15.315,[35]
+Ironside,17.231,[18]
+Chicago Hope,15.187,"[10766, 18]"
+A Certain Magical Index,23.008,"[16, 35, 18, 10759, 10765]"
+Tosh.0,25.347,[35]
+Black Sails,23.05,"[12, 18]"
+Tyler Perry's The Haves and the Have Nots,12.787,"[18, 10766]"
+The King of Queens,25.809,[35]
+Derrick,16.411,"[80, 18]"
+Agatha Christie's Poirot,29.307,"[80, 18, 9648]"
+Schitt's Creek,21.842,[35]
+The War of the Worlds,25.752,"[18, 10765]"
+Killing Eve,23.153,"[80, 18]"
+The Dead Lands,19.447,[10759]
+Magnificent Century,13.313,"[18, 10759]"
+"Goede Tijden, Slechte Tijden",5.995,[]
+Dexter's Laboratory,27.322,"[16, 35, 10751, 10765]"
+My Little Pony: Friendship Is Magic,22.282,"[16, 35, 10751, 10762, 10765]"
+The Celebrity Apprentice,16.633,[10764]
+The Big Valley,15.873,[37]
+Dragon Ball Super,29.913,"[16, 35, 9648, 10759]"
+De Wereld Draait Door,3.316,[10767]
+Boardwalk Empire,15.918,"[18, 80]"
+CSI: NY,22.0,"[80, 18, 9648]"
+My Name Is Earl,25.376,[35]
+Teenage Mutant Ninja Turtles,26.347,"[16, 35, 10759, 10762]"
+Into the Badlands,22.325,[10759]
+Afili Aşk,22.14,[35]
+Miami Vice,26.204,"[80, 18]"
+Entourage,22.403,"[35, 18]"
+The Bold Type,17.327,"[35, 18]"
+Marvel's The Punisher,19.281,"[80, 18, 10759]"
+The Andy Griffith Show,13.775,[35]
+Tout le monde en parle,9.368,[10767]
+Star Trek: Enterprise,24.382,"[18, 10759, 10765]"
+Running Man,30.877,"[35, 10764]"
+Zimmer frei!,3.084,[10767]
+Melrose Place,13.78,"[18, 10766]"
