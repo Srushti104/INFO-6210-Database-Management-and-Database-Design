@@ -55,7 +55,7 @@ def _notebook_title(path):
 def _nbviewer(path):
     dir = op.split(op.dirname(path))[-1]
     file = op.basename(path)
-    return "https://github.com/Srushti104/INFO-6210-Database-Management-and-Database-Design/tree/master/MongoDB_Learning_Book_Final_Project" + dir + '/' + file
+    return "https://nbviewer.jupyter.org/github/Srushti104/INFO-6210-Database-Management-and-Database-Design/tree/finalproject/MongoDB_Learning_Book_Final_Project/" + dir + '/' + file
 
 
 def _iter_all(root):
