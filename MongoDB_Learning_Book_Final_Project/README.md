@@ -22,8 +22,8 @@ This repository contains all the examples as IPython jupyter notebooks.
 
 ### 1. Getting started with MongoDB
 
-* [1.1. Introduction to SQL & NoSQL]()
-* [1.2. What is MongoDB?]()
+* [1.1. Introduction to SQL & NoSQL](https://nbviewer.jupyter.org/github/Srushti104/INFO-6210-Database-Management-and-Database-Design/blob/master/MongoDB_Learning_Book_Final_Project/chapter1/11-introduction.ipynb)
+* [1.2. What is MongoDB?](https://nbviewer.jupyter.org/github/Srushti104/INFO-6210-Database-Management-and-Database-Design/blob/master/MongoDB_Learning_Book_Final_Project/chapter1/12-mongodb.ipynb)
 
 ### 2. Inatallation and Connection
 
