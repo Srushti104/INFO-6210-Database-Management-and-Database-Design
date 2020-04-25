@@ -7,7 +7,7 @@
         <li>Open the folder in Jupyter Notebook</li>
         <li>Go through the chapters one by one</li>
         <li>Complete the assessment and assign a self score</li>
-    </ul><br>
+    </ul>
     or <ul>
         <li>Click on the link from readme file</li>
         <li>On the NBViewer - use the binder plugin</li>
@@ -22,7 +22,7 @@ This repository contains all the examples as IPython jupyter notebooks.
 
 ### 1. Getting started with MongoDB
 
-* [1.1. Introduction to SQL & NoSQL](https://nbviewer.jupyter.org/github/Srushti104/INFO-6210-Database-Management-and-Database-Design/blob/master/MongoDB_Learning_Book_Final_Project/chapter1/11-introduction.ipynb)
+* [1.1. Introduction to SQL & NoSQL](https://hub.gke.mybinder.org/user/srushti104-info-database-design-61fspzo8/notebooks/MongoDB_Learning_Book_Final_Project/chapter1/11-introduction.ipynb)
 * [1.2. What is MongoDB?](https://nbviewer.jupyter.org/github/Srushti104/INFO-6210-Database-Management-and-Database-Design/blob/master/MongoDB_Learning_Book_Final_Project/chapter1/12-mongodb.ipynb)
 
 ### 2. Inatallation and Connection
