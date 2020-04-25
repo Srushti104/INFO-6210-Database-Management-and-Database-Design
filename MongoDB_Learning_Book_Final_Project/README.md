@@ -27,21 +27,21 @@ This repository contains all the examples as IPython jupyter notebooks.
 
 ### 2. Inatallation and Connection
 
-* [2.1. Installing MongoDB to Local](https://hub.gke.mybinder.org/user/srushti104-info-database-design-jwqx9ufq/notebooks/MongoDB_Learning_Book_Final_Project/chapter1/21-installing.ipynb)
-* [2.2. Connecting to MongoDB](https://hub.gke.mybinder.org/user/srushti104-info-database-design-jwqx9ufq/notebooks/MongoDB_Learning_Book_Final_Project/chapter1/22-connecting.ipynb)
+* [2.1. Installing MongoDB to Local](https://hub.gke.mybinder.org/user/srushti104-info-database-design-jwqx9ufq/notebooks/MongoDB_Learning_Book_Final_Project/chapter2/21-installing.ipynb)
+* [2.2. Connecting to MongoDB](https://hub.gke.mybinder.org/user/srushti104-info-database-design-jwqx9ufq/notebooks/MongoDB_Learning_Book_Final_Project/chapter2/22-connecting.ipynb)
 
 ### 3. Getting Handy with MongoDB Scripts
 
-* [3.1. Getting Started with the Intersting Stuff](https://hub.gke.mybinder.org/user/srushti104-info-database-design-jwqx9ufq/notebooks/MongoDB_Learning_Book_Final_Project/chapter1/31-getting-started.ipynb)
-* [3.2. Introduction to CRUD Operations](https://hub.gke.mybinder.org/user/srushti104-info-database-design-jwqx9ufq/notebooks/MongoDB_Learning_Book_Final_Project/chapter1/32-CRUDoperations.ipynb)
-* [3.3. Operators in MongoDB](https://hub.gke.mybinder.org/user/srushti104-info-database-design-jwqx9ufq/notebooks/MongoDB_Learning_Book_Final_Project/chapter1/33-operators.ipynb)
-* [3.4. MongoDB Aggregation Pipeline Operators and MongoDB Index](https://hub.gke.mybinder.org/user/srushti104-info-database-design-jwqx9ufq/notebooks/MongoDB_Learning_Book_Final_Project/chapter1/34-agggrations-and-index.ipynb)
+* [3.1. Getting Started with the Intersting Stuff](https://hub.gke.mybinder.org/user/srushti104-info-database-design-jwqx9ufq/notebooks/MongoDB_Learning_Book_Final_Project/chapter3/31-getting-started.ipynb)
+* [3.2. Introduction to CRUD Operations](https://hub.gke.mybinder.org/user/srushti104-info-database-design-jwqx9ufq/notebooks/MongoDB_Learning_Book_Final_Project/chapter3/32-CRUDoperations.ipynb)
+* [3.3. Operators in MongoDB](https://hub.gke.mybinder.org/user/srushti104-info-database-design-jwqx9ufq/notebooks/MongoDB_Learning_Book_Final_Project/chapter3/33-operators.ipynb)
+* [3.4. MongoDB Aggregation Pipeline Operators and MongoDB Index](https://hub.gke.mybinder.org/user/srushti104-info-database-design-jwqx9ufq/notebooks/MongoDB_Learning_Book_Final_Project/chapter3/34-agggrations-and-index.ipynb)
 
 ### 4. Mongo Shell and Shell Commands
 
-* [4.1. Introduction to Mongo Shell](https://hub.gke.mybinder.org/user/srushti104-info-database-design-jwqx9ufq/notebooks/MongoDB_Learning_Book_Final_Project/chapter1/41-shell.ipynb)
-* [4.2. Overview of Basic Shell Operations](https://hub.gke.mybinder.org/user/srushti104-info-database-design-jwqx9ufq/notebooks/MongoDB_Learning_Book_Final_Project/chapter1/42-shelloperations.ipynb)
+* [4.1. Introduction to Mongo Shell](https://hub.gke.mybinder.org/user/srushti104-info-database-design-jwqx9ufq/notebooks/MongoDB_Learning_Book_Final_Project/chapter4/41-shell.ipynb)
+* [4.2. Overview of Basic Shell Operations](https://hub.gke.mybinder.org/user/srushti104-info-database-design-jwqx9ufq/notebooks/MongoDB_Learning_Book_Final_Project/chapter4/42-shelloperations.ipynb)
 
 ### 5. Assessment
 
-* [5.1. Test Your Knowledge](https://hub.gke.mybinder.org/user/srushti104-info-database-design-jwqx9ufq/notebooks/MongoDB_Learning_Book_Final_Project/chapter1/51-assessment.ipynb)
+* [5.1. Test Your Knowledge](https://hub.gke.mybinder.org/user/srushti104-info-database-design-jwqx9ufq/notebooks/MongoDB_Learning_Book_Final_Project/chapter5/51-assessment.ipynb)
